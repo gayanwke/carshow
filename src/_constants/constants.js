@@ -1,0 +1,2 @@
+export const CARS_LOADED = "CARS_LOADED";
+export const CARS_LOADING_FAILURE = "CARS_LOADING_FAILURE";
